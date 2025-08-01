@@ -1,2 +1,5 @@
 .data
 .env
+.venv
+.models
+__pycache__/
